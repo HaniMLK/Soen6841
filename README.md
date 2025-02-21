@@ -1,4 +1,4 @@
-Software Project Management_SOEN-6841(winter 2024)
+Software Project Management_SOEN-6841(winter 2025)
 
 Professor: Joumana Dargham
 
